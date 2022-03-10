@@ -105,3 +105,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+collections:
+  website_hosted_on_s3:
+    output: true
+    defaults:
